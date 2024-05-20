@@ -1,4 +1,5 @@
 # Insights from Superstore Data Analysis
+For a detailed review of the analysis, please refer to the Jupyter notebook (eda_retail.ipynb).
 
 ## Key Findings
 
