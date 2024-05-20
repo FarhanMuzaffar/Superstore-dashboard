@@ -15,8 +15,8 @@
 3. **Regional Analysis**:
    - The `West` region has the highest total sales as well as average profit among all regions.
    - The `East` region has the second-highest total sales and average profit, trailing closely behind the West region.
-   - The Central region has the lowest average profit among all regions, despite having the third-highest total sales.
-   - The South region has the lowest total sales among all regions but has relatively higher average profit.
+   - The `Central` region has the lowest average profit among all regions, despite having the third-highest total sales.
+   - The `South` region has the lowest total sales among all regions but has relatively higher average profit.
 
 4. **Segment Analysis**:
    - The `Consumer` segment has the highest total sales among the three segments.
