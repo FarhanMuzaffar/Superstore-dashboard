@@ -19,7 +19,7 @@ This project is an interactive dashboard for analyzing superstore sales data usi
 
 2. Navigate to the project directory:
     ```sh
-    cd superstore-dashboard
+    cd Superstore-dashboard
     ```
 
 3. Create a virtual environment and activate it:
@@ -35,7 +35,7 @@ This project is an interactive dashboard for analyzing superstore sales data usi
 
 5. Run the dashboard:
     ```sh
-    python enhanced_superstore_dashboard_with_tabs.py
+    python dashboard.py
     ```
 
 6. Open your web browser and navigate to `http://127.0.0.1:8050` to view the dashboard.
